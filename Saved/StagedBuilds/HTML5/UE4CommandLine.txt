@@ -1,0 +1,1 @@
+../../../walkdemo/walkdemo.uproject  /Game/emptystage -Messaging -SessionId=D2A58EDC45B4B7AA5DD058B12E054F1F -SessionOwner=Lev -SessionName='Play On Device' -iterative
